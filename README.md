@@ -19,7 +19,7 @@ Já que o desafio é criar conteúdos que soem naturais, aproveitei para conecta
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# O Senhor dos Servidores - Bastidores e magias do mundo back-end
 
 ## 📒 Descrição
 Este projeto utiliza IAs generativas para criar conteúdos de divulgação do podcast O Senhor dos Servidores, uma produção focada em mostrar os bastidores e as “magias” do mundo back-end de forma leve e acessível. A ideia foi explorar como a inteligência artificial pode apoiar na criação de textos, descrições e materiais visuais que soem naturais e envolventes.
