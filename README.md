@@ -2,9 +2,8 @@
 
 ## 🚀 Introdução
 
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+Já que o desafio é criar conteúdos que soem naturais, aproveitei para conectar com um projeto pessoal que também nasce dessa mesma ideia: o podcast O Senhor dos Servidores – bastidores e magias do mundo back-end
+, onde compartilho curiosidades e reflexões do universo da tecnologia de forma leve e acessível. 🚀
 
 ## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
 
@@ -23,19 +22,32 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este projeto utiliza IAs generativas para criar conteúdos de divulgação do podcast O Senhor dos Servidores, uma produção focada em mostrar os bastidores e as “magias” do mundo back-end de forma leve e acessível. A ideia foi explorar como a inteligência artificial pode apoiar na criação de textos, descrições e materiais visuais que soem naturais e envolventes.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGPT - Geração de roteiro
+Google AI Studio - Geração de voz
+Picsart - Criação de capa
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+1- Defini a proposta de divulgação do podcast dentro do desafio Natty or Not;
+2- Usei o ChatGPT para escrever descrições humanizadas e posts para redes sociais;
+3- Testei IAs de áudio para criar introduções narradas, simulando uma locução profissional;
+4- Criei as capas pros episódios.
+5- Posto os episódios no Spotify
+
+#📎 Link do podcast:
+
+https://open.spotify.com/show/2vAUlicfbtn5xSYJxeqYM7?si=2da63afd6948451d
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+
+- Criação de um kit de divulgação do podcast (descrições, posts e capas ilustrativas);
+- Conteúdos mais criativos e naturais, mantendo a identidade do programa;
+- Experiência prática em unir storytelling humano com ferramentas de IA.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+O maior desafio foi encontrar o equilíbrio entre o toque humano do podcast e o apoio das IAs. A tecnologia acelerou a produção e trouxe ideias novas, mas percebi que a curadoria e o olhar pessoal ainda são fundamentais para transmitir autenticidade.
 ```
 
 ### Exemplos e Insigths
